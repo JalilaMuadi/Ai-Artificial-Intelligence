@@ -36,7 +36,3 @@ An interactive graphical interface was developed to allow users to input applica
 ### 🏁 Conclusion
 
 This project showcases the practical application of **supervised machine learning** in financial analytics. It highlights how data-driven approaches can enhance efficiency and transparency in loan evaluation systems.
-
-
-
-هل تحبي أضيف قسم صغير عن **“Future Improvements”** (اقتراحات لتطوير المشروع لاحقًا) مثل نشر النموذج على الويب أو تحسين الـGUI؟ ممكن يخلي الـREADME يطلع أكثر احترافية للـGitHub.
